@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhaguirre15
-- 👀 I’m interested in data, especifically on data engineering
+- 👀 I’m interested in data, especifically in data engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data engineering projects once I further my education
 - 📫 How to reach me ...
